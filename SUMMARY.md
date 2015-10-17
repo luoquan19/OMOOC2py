@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
-   * 151015公开课笔记
+   * [151015公开课笔记](0MOOC/151015gong_kai_ke_bi_ji.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
